@@ -208,7 +208,7 @@ theme: {
 },
 ```
 
-**S19** Header.vue
+**19** Header.vue
 ```vue
 <script setup>
 const storyblokApi = useStoryblokApi()
